@@ -1,0 +1,3 @@
+$template=NASA_Expedition.txt
+name=Frank
+amount=1500.99

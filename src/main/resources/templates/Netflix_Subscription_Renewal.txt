@@ -1,0 +1,31 @@
+<html>
+<body style="background-color:black;">
+<head>
+</head>
+<body>
+<center> 
+<img src="https://brand.netflix.com/static/assets/icons/netflix_logo.svg" alt="LOGO" height="200" width="362"></a>
+<font color="red"> <font face="verdana"><centre>
+	<h2>Thanks for renewing your Family HD Subscription!</h2> </font>
+<br>
+<font color="white">
+<br>
+
+Thanks for your renewing ${name}.<br><br>
+You have been charged ${amount} GBP<br>
+
+<br>
+<br>
+<br>
+
+<p> If you do not wish to continue your membership, you can  cancel your subscription at any time</p>
+<br>
+</a></div>
+</a>
+<br>
+<br>
+
+</center>
+</font>
+</body>
+</html>

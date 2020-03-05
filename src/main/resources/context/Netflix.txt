@@ -1,0 +1,3 @@
+$template=Netflix_Subscription_Renewal.txt
+name=George
+amount=1000
